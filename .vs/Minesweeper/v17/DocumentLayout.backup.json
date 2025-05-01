@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Rog\\source\\repos\\Minesweeper\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64EB5595-B4A7-4A41-B1AA-AAF5B536534E}|Minesweeper\\Minesweeper.csproj|C:\\Users\\Rog\\source\\repos\\Minesweeper\\minesweeper\\gamescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{64EB5595-B4A7-4A41-B1AA-AAF5B536534E}|Minesweeper\\Minesweeper.csproj|c:\\users\\rog\\source\\repos\\minesweeper\\minesweeper\\gamescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64EB5595-B4A7-4A41-B1AA-AAF5B536534E}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\gamescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{64EB5595-B4A7-4A41-B1AA-AAF5B536534E}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{64EB5595-B4A7-4A41-B1AA-AAF5B536534E}|Minesweeper\\Minesweeper.csproj|c:\\users\\rog\\source\\repos\\minesweeper\\minesweeper\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{64EB5595-B4A7-4A41-B1AA-AAF5B536534E}|Minesweeper\\Minesweeper.csproj|C:\\Users\\Rog\\source\\repos\\Minesweeper\\minesweeper\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64EB5595-B4A7-4A41-B1AA-AAF5B536534E}|Minesweeper\\Minesweeper.csproj|solutionrelative:minesweeper\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -75,8 +75,7 @@
               "ViewState": "AgIAAGoAAAAAAAAAAAAAAHUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T13:55:00.994Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -89,8 +88,7 @@
               "ViewState": "AgIAAAsAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T15:16:22.246Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -118,8 +116,7 @@
               "ToolTip": "C:\\Users\\Rog\\source\\repos\\Minesweeper\\Minesweeper\\ClassDiagram1.cd",
               "RelativeToolTip": "Minesweeper\\ClassDiagram1.cd",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
-              "WhenOpened": "2024-11-05T17:54:38.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T17:54:38.487Z"
             },
             {
               "$type": "Document",
@@ -130,8 +127,7 @@
               "ToolTip": "C:\\Users\\Rog\\source\\repos\\Minesweeper\\Minesweeper\\GameScreen.cs [Design]",
               "RelativeToolTip": "Minesweeper\\GameScreen.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T14:23:16.251Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-29T14:23:16.251Z"
             },
             {
               "$type": "Document",
@@ -142,8 +138,7 @@
               "ToolTip": "C:\\Users\\Rog\\source\\repos\\Minesweeper\\Minesweeper\\Form2.cs [Design]",
               "RelativeToolTip": "Minesweeper\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T15:58:06.871Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-31T15:58:06.871Z"
             },
             {
               "$type": "Document",
@@ -155,8 +150,7 @@
               "RelativeToolTip": "Minesweeper\\GameScreen.Designer.cs",
               "ViewState": "AgIAABQAAAAAAAAAAABRwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T17:05:44.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T17:05:44.508Z"
             },
             {
               "$type": "Document",
@@ -168,8 +162,7 @@
               "RelativeToolTip": "Minesweeper\\skorboard.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAQwFEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-01T22:08:43.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-01T22:08:43.567Z"
             },
             {
               "$type": "Document",
@@ -181,8 +174,7 @@
               "RelativeToolTip": "Minesweeper\\Form2.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAAACgAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T16:04:53.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T16:04:53.972Z"
             },
             {
               "$type": "Document",
@@ -194,8 +186,7 @@
               "RelativeToolTip": "Minesweeper\\Form2.Designer.cs",
               "ViewState": "AgIAACAAAAAAAAAAAIBJwAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-31T18:53:21.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-31T18:53:21.145Z"
             },
             {
               "$type": "Document",
@@ -206,8 +197,7 @@
               "ToolTip": "C:\\Users\\Rog\\source\\repos\\Minesweeper\\Minesweeper\\Form1.cs [Design]",
               "RelativeToolTip": "Minesweeper\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T20:58:42.397Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-20T20:58:42.397Z"
             },
             {
               "$type": "Document",
@@ -219,8 +209,7 @@
               "RelativeToolTip": "Minesweeper\\Form1.Designer.cs",
               "ViewState": "AgIAAH4AAAAAAAAAACBjwKEAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T15:56:07.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T15:56:07.003Z"
             },
             {
               "$type": "Document",
@@ -232,8 +221,7 @@
               "RelativeToolTip": "Minesweeper\\Properties\\Resources.Designer.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAewBgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T17:47:47.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T17:47:47.41Z"
             }
           ]
         }

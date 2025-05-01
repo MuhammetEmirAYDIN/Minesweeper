@@ -265,7 +265,7 @@ namespace Minesweeper
             oyun.EndgameScore(oyun.PlayerName, Seconds, flagcounter);
             MessageBox.Show($"{oyun.Score}");
             this.Hide();
-            mainMenu.Show();
+            mainMenu.Show();// end
 
         }
 
