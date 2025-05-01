@@ -1,0 +1,12 @@
+C:\Users\Rog\source\repos\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe.config
+C:\Users\Rog\source\repos\Minesweeper\Minesweeper\bin\Debug\Minesweeper.exe
+C:\Users\Rog\source\repos\Minesweeper\Minesweeper\bin\Debug\Minesweeper.pdb
+C:\Users\Rog\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\Rog\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Form1.resources
+C:\Users\Rog\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Properties.Resources.resources
+C:\Users\Rog\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.GenerateResource.cache
+C:\Users\Rog\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.exe
+C:\Users\Rog\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.pdb
+C:\Users\Rog\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.GameScreen.resources
+C:\Users\Rog\source\repos\Minesweeper\Minesweeper\obj\Debug\Minesweeper.Scoreboard.resources

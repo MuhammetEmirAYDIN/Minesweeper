@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Minesweeper.Form1">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAASQAADAIABAAABCAAAAyAKAMAAAACAABAAAACCA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Minesweeper.Scoreboard">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACAQAAAAAACAAAACAAAAAGACAAAQAAAAAAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Minesweeper.GameScreen">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <AssociationLine Name="Seconds" Type="System.Int32">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.082" Y="0.023" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAABAAAQDABAAhAAyDAAAECQgAEEAAAQAgBACAQQAA=</HashCode>
+      <FileName>GameScreen.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="flagcounter" />
+      <Field Name="gameTimer" />
+      <Field Name="gridButtons" />
+      <Field Name="minecounter" />
+      <Field Name="openedNonMineCells" />
+      <Field Name="oyun" />
+      <Field Name="Seconds" />
+      <Field Name="totalNonMineCells" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Minesweeper.Oyun">
+    <Position X="10.75" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAMAAAAAAAIAAAgAAAAAAAAAAAEAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Oyun.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Minesweeper.ScoreEntry">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>skorboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Minesweeper.skorboard">
+    <Position X="7.25" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAEAAAAAAAAAAAIAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>skorboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Timer" Collapsed="true">
+    <Position X="16.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.Button" Collapsed="true">
+    <Position X="16.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Struct Name="System.Double" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Struct Name="System.Int32" Collapsed="true">
+    <Position X="16.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
